@@ -22,4 +22,4 @@ void print_number(int a)
 		printf("nine");
 	else
 		printf("Greater than 9");
-
+}
